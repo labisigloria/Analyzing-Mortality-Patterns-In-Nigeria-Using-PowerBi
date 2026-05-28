@@ -1,4 +1,5 @@
 # Analyzing-Mortality-Patterns-In-Nigeria-Using-PowerBi
+This project focuses on analyzing a world health organization data that shows mortality pattern in Nigeria across the year 1990 to 2020.
 # Project Overview
 This project analyzes mortality patterns and leading causes of death in Nigeria using Power BI. The goal of the analysis was to explore disease burden trends, identify major causes of mortality, and demonstrate how healthcare data can be transformed into meaningful insights through data visualization and analytics.
 The project combines healthcare analysis with data storytelling, reflecting an interest in Health Informatics and public health analytics.
