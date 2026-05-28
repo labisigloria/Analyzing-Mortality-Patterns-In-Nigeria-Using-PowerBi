@@ -47,10 +47,13 @@ The dashboard includes:
 *	Non-communicable diseases also contributed significantly to mortality, highlighting the growing burden of chronic diseases.
 # Dashboard Preview
 <img width="904" height="560" alt="Screenshot 2026-05-12 130718" src="https://github.com/user-attachments/assets/a66fb9aa-b955-4937-a660-10bc0a72158b" />
+
 # Conclusion
 This project demonstrates how healthcare data can be transformed into actionable insights through analytics and visualization. Beyond technical dashboard development, the project provided valuable experience in healthcare data interpretation, analytical storytelling, and public health analysis.
+
 # Technical Report
 https://medium.com/@gloryolabisi.go/analyzing-mortality-patterns-in-nigeria-using-power-bi-a-health-informatics-case-study-67313f68d1fa
+
 # Author
 Olabisi Adekoya
 Biomedical Engineering Graduate | Aspiring Health Informatics & Data Analytics Professional
