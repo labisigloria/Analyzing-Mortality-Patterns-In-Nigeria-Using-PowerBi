@@ -15,9 +15,7 @@ The main objectives of this project were to:
 *	Power Query
 *	DAX Measures
 *	Data Visualization Techniques
-# Data Cleaning and Transformation<img width="904" height="560" alt="Screenshot 2026-05-12 130718" src="https://github.com/user-attachments/assets/c4e58f24-1362-458f-ab22-48cc97769fc5" />
-
-
+# Data Cleaning and Transformation
 The dataset underwent several preprocessing steps before analysis, including:
 
 * Removing null and empty values
@@ -27,7 +25,7 @@ The dataset underwent several preprocessing steps before analysis, including:
 * Grouping diseases into:
    * Communicable diseases
    * Non-communicable diseases
-  * Others
+   * Others
 
 Additional DAX measures were created to calculate:
 * Total deaths
@@ -51,6 +49,8 @@ The dashboard includes:
 <img width="904" height="560" alt="Screenshot 2026-05-12 130718" src="https://github.com/user-attachments/assets/a66fb9aa-b955-4937-a660-10bc0a72158b" />
 # Conclusion
 This project demonstrates how healthcare data can be transformed into actionable insights through analytics and visualization. Beyond technical dashboard development, the project provided valuable experience in healthcare data interpretation, analytical storytelling, and public health analysis.
+# Technical Report
+https://medium.com/@gloryolabisi.go/analyzing-mortality-patterns-in-nigeria-using-power-bi-a-health-informatics-case-study-67313f68d1fa
 # Author
 Olabisi Adekoya
 Biomedical Engineering Graduate | Aspiring Health Informatics & Data Analytics Professional
